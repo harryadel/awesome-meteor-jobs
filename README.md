@@ -8,6 +8,7 @@
 - [Cult Of Coders](https://www.cultofcoders.com/careers)
 - [Qualia](https://www.qualia.com/jobs/#/engineering)
 - [Aazumuta](https://www.azumuta.com/en/careers/)  
+- [Hive](https://angel.co/company/hivetechnology/jobs)
 
 ### Job Boards
 
