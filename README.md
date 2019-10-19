@@ -9,6 +9,7 @@
 - [Qualia](https://www.qualia.com/jobs/#/engineering)
 - [Aazumuta](https://www.azumuta.com/en/careers/)  
 - [Hive](https://angel.co/company/hivetechnology/jobs)
+- [Rise Technologies](https://rise.recruitee.com/)
 
 ### Job Boards
 
