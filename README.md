@@ -11,6 +11,7 @@
 - [Aazumuta](https://www.azumuta.com/en/careers/)  
 - [Hive](https://angel.co/company/hivetechnology/jobs)
 - [Swydo](https://www.swydo.com/jobs)
+- [BlackBird](https://angel.co/company/blackbird/jobs/)
 - [Rise Technologies](https://rise.recruitee.com/)
 
 ### Job Boards
