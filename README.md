@@ -15,6 +15,7 @@
 - [Rise Technologies](https://rise.recruitee.com/)
 - [Innovation Love](https://innovationlove.ph/ilove/about)
 - [Apify](https://apify.com/jobs)
+- [CodeSignal](https://careers.smartrecruiters.com/CodeSignal)
 
 ### Job Boards
 
