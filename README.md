@@ -16,6 +16,7 @@
 - [Innovation Love](https://innovationlove.ph/ilove/about)
 - [Apify](https://apify.com/jobs)
 - [CodeSignal](https://careers.smartrecruiters.com/CodeSignal)
+- [Rocket.Chat](https://rocket.chat/jobs)
 
 ### Job Boards
 
