@@ -17,6 +17,7 @@
 - [Apify](https://apify.com/jobs)
 - [CodeSignal](https://careers.smartrecruiters.com/CodeSignal)
 - [Rocket.Chat](https://rocket.chat/jobs)
+- [Keenethics](https://keenethics.com/careers)
 
 ### Job Boards
 
