@@ -1,5 +1,5 @@
 
-# Awesome-Meteor-Jobs
+# Awesome Meteor Jobs
 
 
 ### Companies
