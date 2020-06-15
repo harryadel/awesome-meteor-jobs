@@ -20,6 +20,7 @@
 - [Keenethics](https://keenethics.com/careers)
 - [Unchained Commerce](https://unchained.shop/karriere)
 - [e-Potek](https://www.e-potek.ch/careers)
+- [MaestroQA](https://angel.co/company/maestroqa/jobs)
 
 ### Job Boards
 
