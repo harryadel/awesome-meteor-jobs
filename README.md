@@ -21,6 +21,7 @@
 - [Unchained Commerce](https://unchained.shop/karriere)
 - [e-Potek](https://www.e-potek.ch/careers)
 - [MaestroQA](https://angel.co/company/maestroqa/jobs)
+- [Konecty](https://www.konecty.com/jobs)
 
 ### Job Boards
 
