@@ -23,6 +23,7 @@
 - [MaestroQA](https://angel.co/company/maestroqa/jobs)
 - [Konecty](https://www.konecty.com/jobs)
 - [InsideSherpa](https://angel.co/company/insidesherpa-1/jobs)
+- [Sulvo](https://sulvo.com/careers)
 
 ### Job Boards
 
