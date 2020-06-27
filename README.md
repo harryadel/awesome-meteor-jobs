@@ -22,6 +22,7 @@
 - [e-Potek](https://www.e-potek.ch/careers)
 - [MaestroQA](https://angel.co/company/maestroqa/jobs)
 - [Konecty](https://www.konecty.com/jobs)
+- [InsideSherpa](https://angel.co/company/insidesherpa-1/jobs)
 
 ### Job Boards
 
