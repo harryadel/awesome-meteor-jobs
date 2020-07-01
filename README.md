@@ -24,6 +24,7 @@
 - [Konecty](https://www.konecty.com/jobs)
 - [InsideSherpa](https://angel.co/company/insidesherpa-1/jobs)
 - [Sulvo](https://sulvo.com/careers)
+- [itgen](https://itgen.io/rabora-razrab) [Russian Speakers Only]
 
 ### Job Boards
 
