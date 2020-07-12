@@ -25,6 +25,7 @@
 - [InsideSherpa](https://angel.co/company/insidesherpa-1/jobs)
 - [Sulvo](https://sulvo.com/careers)
 - [itgen](https://itgen.io/rabora-razrab) [Russian Speakers Only]
+- [duodeka](https://duodeka.nl/jobs/)
 
 ### Job Boards
 
