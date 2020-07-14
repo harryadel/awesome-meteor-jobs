@@ -22,7 +22,7 @@
 - [e-Potek](https://www.e-potek.ch/careers)
 - [MaestroQA](https://angel.co/company/maestroqa/jobs)
 - [Konecty](https://www.konecty.com/jobs)
-- [InsideSherpa](https://angel.co/company/insidesherpa-1/jobs)
+- [InsideSherpa](https://jobs.ashbyhq.com/InsideSherpa)
 - [Sulvo](https://sulvo.com/careers)
 - [itgen](https://itgen.io/rabora-razrab) [Russian Speakers Only]
 - [duodeka](https://duodeka.nl/jobs/)
