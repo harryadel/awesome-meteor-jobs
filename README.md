@@ -26,6 +26,7 @@
 - [Sulvo](https://sulvo.com/careers)
 - [itgen](https://itgen.io/rabora-razrab) [Russian Speakers Only]
 - [duodeka](https://duodeka.nl/jobs/)
+- [Lemlist](https://jobs.stationf.co/companies/lemlist)
 
 ### Job Boards
 
