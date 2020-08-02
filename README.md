@@ -27,6 +27,7 @@
 - [itgen](https://itgen.io/rabora-razrab) [Russian Speakers Only]
 - [duodeka](https://duodeka.nl/jobs/)
 - [Lemlist](https://jobs.stationf.co/companies/lemlist)
+- [sharekey](https://sharekey.com/careers/open-positions)
 
 ### Job Boards
 
