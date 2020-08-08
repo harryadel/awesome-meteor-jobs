@@ -28,6 +28,7 @@
 - [duodeka](https://duodeka.nl/jobs/)
 - [Lemlist](https://jobs.stationf.co/companies/lemlist)
 - [sharekey](https://sharekey.com/careers/open-positions)
+- [buzzy](https://www.buzzy.buzz/jobs.html)
 
 ### Job Boards
 
