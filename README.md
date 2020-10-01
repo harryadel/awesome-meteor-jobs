@@ -30,6 +30,8 @@
 - [sharekey](https://sharekey.com/careers/open-positions)
 - [buzzy](https://www.buzzy.buzz/jobs.html)
 - [Orderlion](https://orderlion.com/jobs)
+- [usertimes](https://usertimes.io/aboutus/career/)
+- [Prenda](https://apply.workable.com/prenda/)
 
 ### Job Boards
 
