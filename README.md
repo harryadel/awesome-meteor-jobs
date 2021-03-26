@@ -34,6 +34,7 @@
 - [Prenda](https://apply.workable.com/prenda/)
 - [ElevenYellow](https://angel.co/company/elevenyellow/jobs)
 - [Perusall](https://perusall.com/careers)
+- [Classcraft](https://apply.workable.com/classcraft/?lng=en)
 
 ### Job Boards
 
