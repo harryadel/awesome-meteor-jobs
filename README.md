@@ -37,9 +37,12 @@
 - [Classcraft](https://apply.workable.com/classcraft/?lng=en)
 - [Tulip](https://tulip.co/careers)
 - [Altruistiq](https://jobs.lever.co/Altruistiq)
+- [Quave](https://quave.dev/)
+- [Boom Learning](https://wow.boomlearning.com/)
 
 ### Job Boards
 
+- [Official Meteor Job Board](https://jobs.meteor.com/)
 - [WeWorkMeteor](https://www.weworkmeteor.com)
 - [remoteok](https://remoteok.io/remote-full-stack+meteor-js-jobs)
 - [weworkremotely](https://weworkremotely.com/remote-jobs/search?utf8=%E2%9C%93&term=Meteor)
