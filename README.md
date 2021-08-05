@@ -1,6 +1,7 @@
 
 # Awesome Meteor Jobs
-
+ 
+Please note that some of these companies don't have a dedicated jobs/careers page on their websites so you may have to email them.
 
 ### Companies
 
