@@ -40,6 +40,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [Altruistiq](https://jobs.lever.co/Altruistiq)
 - [Quave](https://quave.dev/)
 - [Boom Learning](https://wow.boomlearning.com/)
+- [oscillate](https://oscillate.join.com/)
 
 ### Job Boards
 
