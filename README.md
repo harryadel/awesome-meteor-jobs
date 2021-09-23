@@ -9,7 +9,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [Cult Of Coders](https://www.cultofcoders.com/careers)
 - [Vazco](https://www.vazco.eu/jobs/)
 - [Qualia](https://www.qualia.com/jobs/#/engineering)
-- [Aazumuta](https://www.azumuta.com/en/careers/)  
+- [Azumuta](https://www.azumuta.com/en/company/careers/)  
 - [Hive](https://angel.co/company/hivetechnology/jobs)
 - [Swydo](https://www.swydo.com/jobs)
 - [BlackBird](https://angel.co/company/blackbird/jobs/)
