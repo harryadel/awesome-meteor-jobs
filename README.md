@@ -19,7 +19,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [CodeSignal](https://careers.smartrecruiters.com/CodeSignal)
 - [Rocket.Chat](https://rocket.chat/jobs)
 - [Keenethics](https://keenethics.com/careers)
-- [Unchained Commerce](https://unchained.shop/karriere)
+- [Unchained Commerce](https://unchained.shop/careers)
 - [e-Potek](https://www.e-potek.ch/careers)
 - [MaestroQA](https://angel.co/company/maestroqa/jobs)
 - [Konecty](https://www.konecty.com/jobs)
