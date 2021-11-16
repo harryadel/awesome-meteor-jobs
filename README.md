@@ -42,6 +42,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [Boom Learning](https://wow.boomlearning.com/)
 - [oscillate](https://oscillate.join.com/)
 - [R-Zero](https://apply.workable.com/rzero/)
+- [justplaysolutions](https://justplaysolutions.com/join-our-team/)
 
 ### Job Boards
 
