@@ -44,6 +44,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [R-Zero](https://apply.workable.com/rzero/)
 - [justplaysolutions](https://justplaysolutions.com/join-our-team/)
 - [Plutio](https://www.plutio.com/work-with-us)
+- [LIRIS TECH](https://www.liris.ch/)
 
 ### Job Boards
 
