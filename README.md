@@ -47,6 +47,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [LIRIS TECH](https://www.liris.ch/)
 - [Pilotly](https://angel.co/company/pilotly/jobs)
 - [xtendops](https://engineering.xtendops.com/)
+- [Planable](https://planable.io/careers)
 
 ### Job Boards
 
