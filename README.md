@@ -48,6 +48,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [Pilotly](https://angel.co/company/pilotly/jobs)
 - [xtendops](https://engineering.xtendops.com/)
 - [Planable](https://planable.io/careers)
+- [Lytesoft](https://www.lytesoft.com/)
 
 ### Job Boards
 
