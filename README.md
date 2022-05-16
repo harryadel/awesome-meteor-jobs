@@ -50,6 +50,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [Planable](https://planable.io/careers)
 - [Lytesoft](https://www.lytesoft.com/)
 - [Apiko](https://apiko.com/careers/)
+- [Numero/yourDNA](https://www.yourDNA.family/)
 
 ### Job Boards
 
