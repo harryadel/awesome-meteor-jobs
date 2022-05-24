@@ -51,6 +51,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [Lytesoft](https://www.lytesoft.com/)
 - [Apiko](https://apiko.com/careers/)
 - [Numero/yourDNA](https://www.yourDNA.family/)
+- [lessonup](https://jobs.lessonup.com/)
 
 ### Job Boards
 
