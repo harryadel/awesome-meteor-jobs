@@ -52,6 +52,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [Apiko](https://apiko.com/careers/)
 - [Numero/yourDNA](https://www.yourDNA.family/)
 - [lessonup](https://jobs.lessonup.com/)
+- [Podaris](https://careers.podaris.com/)
 
 ### Job Boards
 
