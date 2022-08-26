@@ -53,7 +53,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [Numero/yourDNA](https://www.yourDNA.family/)
 - [lessonup](https://jobs.lessonup.com/)
 - [Podaris](https://careers.podaris.com/)
-- []
+- [Literary Universe](https://www.literaryuniverse.com/)
 
 ### Job Boards
 
