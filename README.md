@@ -55,6 +55,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [Podaris](https://careers.podaris.com/)
 - [Literary Universe](https://www.literaryuniverse.com/)
 - [Back2Dev](https://www.back2.dev/)
+- [Education Link](https://geteducation.link/)
 
 ### Job Boards
 
