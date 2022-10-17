@@ -56,6 +56,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [Literary Universe](https://www.literaryuniverse.com/)
 - [Back2Dev](https://www.back2.dev/)
 - [Education Link](https://geteducation.link/)
+- [Ledgy](https://app.otta.com/companies/Ledgy)
 
 ### Job Boards
 
