@@ -58,6 +58,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [Education Link](https://geteducation.link/)
 - [Ledgy](https://app.otta.com/companies/Ledgy)
 - [ActualFood](http://www.actualfood.com/)
+- [veliovgroup](https://github.com/veliovgroup/careers)
 
 ### Job Boards
 
