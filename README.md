@@ -59,6 +59,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [ActualFood](http://www.actualfood.com/)
 - [veliovgroup](https://github.com/veliovgroup/careers)
 - [allohouston](https://www.allohouston.fr/)
+- [kromit](https://kromit.at/)
 
 ### Job Boards
 
