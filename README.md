@@ -61,6 +61,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [allohouston](https://www.allohouston.fr/)
 - [kromit](https://kromit.at/)
 - [kaddio](https://kaddio.com/)
+- [learningeconomy](https://jobs.learningeconomy.io/jobs/)
 
 ### Job Boards
 
