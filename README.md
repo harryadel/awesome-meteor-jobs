@@ -62,6 +62,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [kromit](https://kromit.at/)
 - [kaddio](https://kaddio.com/)
 - [learningeconomy](https://jobs.learningeconomy.io/jobs/)
+- [Harbiz](https://dudyfit.notion.site/Career-Opportunities-at-Harbiz-79f59534dc754026be867f27ee40515f)
 
 ### Job Boards
 
