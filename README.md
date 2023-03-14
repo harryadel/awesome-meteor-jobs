@@ -5,7 +5,6 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 
 ### Companies
 
-- [Pathable](https://careers.jobscore.com/careers/pathableinc?department=Engineering)
 - [Cult Of Coders](https://www.cultofcoders.com/careers)
 - [Vazco](https://www.vazco.eu/jobs/)
 - [Qualia](https://www.qualia.com/jobs/#/engineering)
