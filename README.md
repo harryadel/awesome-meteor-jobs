@@ -63,6 +63,10 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [learningeconomy](https://jobs.learningeconomy.io/jobs/)
 - [Harbiz](https://dudyfit.notion.site/Career-Opportunities-at-Harbiz-79f59534dc754026be867f27ee40515f)
 - [favro](https://www.favro.com/careers)
+- [hubro.education](https://hubro.education/)
+- [littledata](https://www.littledata.io/)
+- [theforage](http://www.theforage.com/)
+
 
 ### Job Boards
 
