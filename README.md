@@ -66,6 +66,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [hubro.education](https://hubro.education/)
 - [littledata](https://www.littledata.io/)
 - [theforage](http://www.theforage.com/)
+- [Rise Tech](https://rise.tech/en/career/)
 
 
 ### Job Boards
