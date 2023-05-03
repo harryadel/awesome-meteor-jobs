@@ -21,7 +21,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [e-Potek](https://www.e-potek.ch/careers)
 - [MaestroQA](https://angel.co/company/maestroqa/jobs)
 - [Konecty](https://www.konecty.com/jobs)
-- [InsideSherpa](https://jobs.ashbyhq.com/InsideSherpa) | [Different link](https://www.ashbyhq.com/careers)
+- [InsideSherpa](https://boards.greenhouse.io/forage) | [Different link](https://www.ashbyhq.com/careers)
 - [Sulvo](https://sulvo.com/careers)
 - [itgen](https://itgen.io/rabora-razrab) [Russian Speakers Only]
 - [duodeka](https://duodeka.nl/jobs/)
