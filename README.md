@@ -36,7 +36,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [Classcraft](https://apply.workable.com/classcraft/?lng=en)
 - [Tulip](https://tulip.co/careers)
 - [Altruistiq](https://jobs.lever.co/Altruistiq)
-- [Quave](https://quave.dev/)
+- [Quave](https://quave.dev/) | [Different Link](https://github.com/quavedev/join)
 - [Boom Learning](https://wow.boomlearning.com/)
 - [oscillate](https://oscillate.join.com/)
 - [R-Zero](https://apply.workable.com/rzero/)
