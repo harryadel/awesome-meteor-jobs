@@ -69,6 +69,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [Rise Tech](https://rise.tech/en/career/)
 - [facio](https://www.facio.io/)
 - [source-technology](https://www.sourcegroupinternational.com/source-technology/)
+- [Medipense](https://medipense.com/)
 
 ### Job Boards
 
