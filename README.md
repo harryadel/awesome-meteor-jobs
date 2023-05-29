@@ -70,7 +70,9 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [facio](https://www.facio.io/)
 - [source-technology](https://www.sourcegroupinternational.com/source-technology/)
 - [Medipense](https://medipense.com/)
-- (wayop.io)[https://www.wayop.io/]
+- [wayop.io](https://www.wayop.io/)
+- [Yerbba](https://www.yerbba.com/)
+
 
 ### Job Boards
 
