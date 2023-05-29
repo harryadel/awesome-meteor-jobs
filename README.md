@@ -67,7 +67,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [littledata](https://www.littledata.io/)
 - [theforage](http://www.theforage.com/)
 - [Rise Tech](https://rise.tech/en/career/)
-
+- [facio](https://www.facio.io/)
 
 ### Job Boards
 
