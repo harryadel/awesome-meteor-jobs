@@ -75,6 +75,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [AssetWorks](https://www.goassetworks.com/)
 - [PerchMade](https://perchmade.com/jobs/)
 - [Edabit](https://edabit.com)
+- [easyappointments](https://easyappointments.org/)
 
 ### Job Boards
 
