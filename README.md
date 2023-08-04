@@ -77,6 +77,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [Edabit](https://edabit.com)
 - [easyappointments](https://easyappointments.org/)
 - [tutormundi](https://tutormundi.com/)
+- [dreamatic-tech](https://github.com/dreamatic-tech/careers/tree/master)
 
 ### Job Boards
 
