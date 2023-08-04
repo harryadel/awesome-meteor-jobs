@@ -78,6 +78,9 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [easyappointments](https://easyappointments.org/)
 - [tutormundi](https://tutormundi.com/)
 - [dreamatic-tech](https://github.com/dreamatic-tech/careers/tree/master)
+- [eatfresh](https://www.eatfresh.tech/)
+- [dunderon](https://dunderon.se/)
+- [quickcoach](https://quickcoach.fit/)
 
 ### Job Boards
 
