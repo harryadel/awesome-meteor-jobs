@@ -81,6 +81,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [eatfresh](https://www.eatfresh.tech/)
 - [dunderon](https://dunderon.se/)
 - [quickcoach](https://quickcoach.fit/)
+- [aleno.me](https://www.aleno.me/en/we-are-hiring)
 
 ### Job Boards
 
