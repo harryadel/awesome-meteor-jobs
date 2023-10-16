@@ -83,6 +83,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [quickcoach](https://quickcoach.fit/)
 - [aleno.me](https://www.aleno.me/en/we-are-hiring)
 - [Trusted.care](https://trusted.care/)
+- [Videomenthe](https://videomenthe.fr/)
 
 ### Job Boards
 
