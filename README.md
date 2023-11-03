@@ -84,6 +84,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [aleno.me](https://www.aleno.me/en/we-are-hiring)
 - [Trusted.care](https://trusted.care/)
 - [Videomenthe](https://videomenthe.fr/)
+- [Astraload](https://astraload.com/)
 
 ### Job Boards
 
