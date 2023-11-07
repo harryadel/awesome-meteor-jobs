@@ -85,6 +85,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [Trusted.care](https://trusted.care/)
 - [Videomenthe](https://videomenthe.fr/)
 - [Astraload](https://astraload.com/)
+- [Produceplan](https://produceplan.com/)
 
 ### Job Boards
 
