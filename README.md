@@ -86,6 +86,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [Videomenthe](https://videomenthe.fr/)
 - [Astraload](https://astraload.com/)
 - [Produceplan](https://produceplan.com/)
+- [Torsh](https://www.torsh.co/)
 
 ### Job Boards
 
