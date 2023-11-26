@@ -96,7 +96,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [weworkremotely](https://weworkremotely.com/remote-jobs/search?utf8=%E2%9C%93&term=Meteor)
 - [jsremotely](https://jsremotely.com/)
 - [remotees](https://remotees.com/remote-meteorjs-jobs)
-- [Upwork](upwork.com)
+- [Upwork](https://www.upwork.com/)
 
 # License
 
