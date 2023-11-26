@@ -6,7 +6,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 ### Companies
 
 - [Cult Of Coders](https://www.cultofcoders.com/careers)
-- [Vazco](https://www.vazco.eu/jobs/)
+- [Vazco](https://www.vazco.eu/careers/)
 - [Qualia](https://www.qualia.com/jobs/#/engineering)
 - [Azumuta](https://www.azumuta.com/en/company/careers/)  
 - [Hive](https://angel.co/company/hivetechnology/jobs)
