@@ -87,6 +87,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [Astraload](https://astraload.com/)
 - [Produceplan](https://produceplan.com/)
 - [Torsh](https://www.torsh.co/)
+- [Keela](https://www.keela.co/careers)
 
 ### Job Boards
 
