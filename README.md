@@ -65,7 +65,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [favro](https://www.favro.com/careers)
 - [hubro.education](https://hubro.education/)
 - [littledata](https://www.littledata.io/)
-- [theforage](http://www.theforage.com/)
+- [theforage](https://www.theforage.com/)
 - [Rise Tech](https://rise.tech/en/career/)
 - [facio](https://www.facio.io/)
 - [source-technology](https://www.sourcegroupinternational.com/source-technology/)
