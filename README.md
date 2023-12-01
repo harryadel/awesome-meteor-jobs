@@ -19,7 +19,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [Rocket.Chat](https://rocket.chat/jobs)
 - [Keenethics](https://keenethics.com/careers)
 - [e-Potek](https://www.e-potek.ch/careers)
-- [MaestroQA](https://angel.co/company/maestroqa/jobs)
+- [MaestroQA](https://www.maestroqa.com/careers)
 - [Konecty](https://www.konecty.com/jobs)
 - [InsideSherpa](https://boards.greenhouse.io/forage) | [Different link](https://www.ashbyhq.com/careers)
 - [Sulvo](https://sulvo.com/careers)
