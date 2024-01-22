@@ -15,7 +15,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [Rise Technologies](https://rise.recruitee.com/)
 - [Innovation Love](https://innovationlove.ph/ilove/about)
 - [Apify](https://apify.com/jobs)
-- [CodeSignal](https://careers.smartrecruiters.com/CodeSignal)
+- [CodeSignal](https://codesignal.com/careers)
 - [Rocket.Chat](https://rocket.chat/jobs)
 - [Keenethics](https://keenethics.com/careers)
 - [e-Potek](https://www.e-potek.ch/careers)
