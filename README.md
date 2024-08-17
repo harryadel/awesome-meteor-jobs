@@ -87,6 +87,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [Produceplan](https://produceplan.com/)
 - [Torsh](https://www.torsh.co/)
 - [Keela](https://www.keela.co/careers)
+- [codeswop](https://codeswop.com/)
 
 ### Job Boards
 
