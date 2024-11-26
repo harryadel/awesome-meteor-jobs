@@ -25,7 +25,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [Sulvo](https://sulvo.com/careers)
 - [itgen](https://itgen.io/vacancies) [Russian Speakers Only]
 - [duodeka](https://duodeka.nl/jobs/)
-- [Lemlist](https://jobs.stationf.co/companies/lemlist) | [Different link](https://www.welcometothejungle.com/fr/companies/lemlist/jobs)
+- [Lemlist](https://www.welcometothejungle.com/fr/companies/lempire/jobs)
 - [sharekey](https://sharekey.com/careers/open-positions)
 - [buzzy](https://www.buzzy.buzz/jobs.html)
 - [Orderlion](https://orderlion.com/jobs)
