@@ -88,6 +88,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [Torsh](https://www.torsh.co/)
 - [Keela](https://www.keela.co/careers)
 - [codeswop](https://codeswop.com/)
+- [integrail.ai](https://integrail.ai/careers)
 
 ### Job Boards
 
