@@ -54,7 +54,6 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [Literary Universe](https://www.literaryuniverse.com/)
 - [Back2Dev](https://www.back2.dev/)
 - [Education Link](https://geteducation.link/company/work-with-us/)
-- [Ledgy](https://app.otta.com/companies/Ledgy)
 - [ActualFood](http://www.actualfood.com/)
 - [veliovgroup](https://github.com/veliovgroup/careers)
 - [allohouston](https://www.allohouston.fr/)
@@ -89,11 +88,14 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [Keela](https://www.keela.co/careers)
 - [codeswop](https://codeswop.com/)
 - [integrail.ai](https://integrail.ai/careers)
+- [Agdata](https://agdata.ag/en/kariera/#developer)
+- [Robotict](https://robotict.com/company/career)
+- [Zipboard](https://zipboard.co/)
 
 ### Job Boards
 
-- [Official Meteor Job Board](https://jobs.meteor.com/)
 - [WeWorkMeteor](https://www.weworkmeteor.com)
+- [Wellfound](https://wellfound.com/jobs)
 - [remoteok](https://remoteok.io/remote-full-stack+meteor-js-jobs)
 - [weworkremotely](https://weworkremotely.com/remote-jobs/search?utf8=%E2%9C%93&term=Meteor)
 - [jsremotely](https://jsremotely.com/)
