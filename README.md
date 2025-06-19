@@ -91,6 +91,7 @@ Please note that some of these companies don't have a dedicated jobs/careers pag
 - [Agdata](https://agdata.ag/en/kariera/#developer)
 - [Robotict](https://robotict.com/company/career)
 - [Zipboard](https://zipboard.co/)
+- [Joinit](https://joinit.com/)
 
 ### Job Boards
 
